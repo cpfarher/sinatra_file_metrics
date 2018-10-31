@@ -1,0 +1,10 @@
+#metric 1
+metrica_1{status="matched",name="christian"} 0
+#metric 2
+metrica_2{status="matched",name="ivan"} 2
+#metric 3
+metrica_3{status="matched",name="tester"} 3
+#metric 4
+metrica_4{status="matched"} 5
+#metric 5
+metrica_5{status="matched"} 6
